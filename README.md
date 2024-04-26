@@ -1,1 +1,1 @@
-# NextJS_Tutss
+# NextJS_Tutorials

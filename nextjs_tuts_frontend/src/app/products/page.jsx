@@ -2,8 +2,8 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>JAVA Course</div>
+    <div>welcome to product page </div>
   )
 }
 
-export default page
+export default page;
